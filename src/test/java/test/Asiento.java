@@ -1,5 +1,5 @@
 package test;
-
+//Autor: Jose Mauricio Toscano Aguas, Universidad Nacional de Colombia Sede Medellín
 public class Asiento {
 	String color;
 	int precio;
