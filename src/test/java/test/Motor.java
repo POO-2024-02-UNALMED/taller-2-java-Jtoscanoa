@@ -12,4 +12,3 @@ public class Motor {
 		}
 	}
 }
-//Autor: Jose Mauricio Toscano Aguas, Universidad Nacional de Colombia Sede Medellín
