@@ -1,5 +1,4 @@
 package test;
-//Autor: Jose Mauricio Toscano Aguas, Universidad Nacional de Colombia Sede Medellín
 public class Motor {
 	int numeroCilindros;
 	String tipo;
@@ -13,3 +12,4 @@ public class Motor {
 		}
 	}
 }
+//Autor: Jose Mauricio Toscano Aguas, Universidad Nacional de Colombia Sede Medellín

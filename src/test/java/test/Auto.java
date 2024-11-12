@@ -1,5 +1,4 @@
 package test;
-//Autor: Jose Mauricio Toscano Aguas, Universidad Nacional de Colombia Sede Medellín
 public class Auto {
 	String  modelo;
 	int precio;
@@ -30,3 +29,4 @@ public class Auto {
 		return "Auto original";
 	}
 }
+//Autor: Jose Mauricio Toscano Aguas, Universidad Nacional de Colombia Sede Medellín
