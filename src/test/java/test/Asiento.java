@@ -9,12 +9,10 @@ public class Asiento {
 		String[] coloresp = {"rojo", "verde", "amarillo", "negro", "blanco"};
 		for (String n: coloresp) {
 			if (NuevoColor == n){
-				this.color == n;
-				return true
-			}
-			else {
-				return false
+				this.color = n;
+				return true;
 			}
 		}
+	return false;
 	}
 }
