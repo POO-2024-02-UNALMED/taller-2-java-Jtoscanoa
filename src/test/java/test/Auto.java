@@ -19,7 +19,7 @@ public class Auto {
 		}
 		return i;
 	}
-	public String verificarIntegridad() {
+	public String VerificarIntegridad() {
 		if (motor == null || asientos == null) {
 			return "Las piezas no son originales";
 		}
